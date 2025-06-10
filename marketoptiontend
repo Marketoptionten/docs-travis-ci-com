@@ -1,0 +1,169 @@
+
+Registry Domain ID: marketmarketoptiontend.com
+Registrar WHOIS Server: whois.namesilo.com
+Registrar URL: https://www.namesilo.com/
+Updated Date: 2024-03-10T07:00:00Z
+Creation Date: 2023-10-30T07:00:00Z
+Registrar Registration Expiration Date: 2024-10-30T07:00:00Z
+Registrar: NameSilo, LLC
+Registrar IANA ID: 1479
+Registrar Abuse Contact Email: abuse@namesilo.com
+Registrar Abuse Contact Phone: +1.4805240066
+Reseller: Netlight Systems
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: PrivacyGuardian.org llc
+Registrant Street: 1928 E. Highland Ave. Ste F104 PMB# 255
+Registrant City: Phoenix
+Regaistrant State/Province: AZ
+Registrant Postal Code: 85016
+Registrant Country: US
+Registrant Phone: +1.3478717726
+Registrant Phone Ext: This 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: pw-3221cec1b29f1b2009251abf15a18706@privacyguardian.org
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: PrivacyGuardian.org llc
+Admin Street: 1928 E. Highland Ave. Ste F104 PMB# 255
+Admin City: Phoenix
+Admin State/Province: AZ
+Admin Postal Code: 85016
+Admin Country: US
+Admin Phone: +1.3478717726
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: pw-3221cec1b29f1b2009251abf15a18706@privacyguardian.org
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: PrivacyGuardian.org llc
+Tech Street: 1928 E. Highland Ave. Ste F104 PMB# 255
+Tech City: Phoenix
+Tech State/Province: AZ
+Tech Postal Code: 85016
+Tech Country: US
+Tech Phone: +1.3478717726
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: pw-3221cec1b29f1b2009251abf15a18706@privacyguardian.org
+Name Server: NS1.STACKDNS.COM
+Name Server: NS2.STACKDNS.COM
+Name Server: NS3.STACKDNS.COM
+Name Server: NS4.STACKDNS.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+&gt;&gt;&gt; Last update of WHOIS database: 2024-03-22T07:00:00Z 
+RESULTSET-2
+   Domain Name: MARKETOPTIONTEND.COM 
+   Registry Domain ID: 2825689843_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.namesilo.com
+   Registrar URL: http://www.namesilo.com
+   Updated Date: 2023-10-30T08:52:28Z
+   Creation Date: 2023-10-30T08:52:23Z
+   Registry Expiry Date: 2024-10-30T08:52:23Z
+   Registrar: NameSilo, LLC
+   Registrar IANA ID: 1479
+   Registrar Abuse Contact Email: abuse@namesilo.com
+   Registrar Abuse Contact Phone: +1.4805240066
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS1.STACKDNS.COM
+   Name Server: NS2.STACKDNS.COM
+   Name Server: NS3.STACKDNS.COM
+   Name Server: NS4.STACKDNS.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+&gt;&gt;&gt; Last update of whois database: 2024-03-23T03:59:21Z 
+
+
+
+
+
+
+
+ related to '185.151.30.0 - 185.151.30.255'
+
+% Abuse contact for '185.151.30.0 - 185.151.30.255' is 'abuse@20i.com'
+
+inetnum:        185.151.30.0 - 185.151.30.255
+netname:        CDN
+descr:          Cloud Platform
+country:        GB
+admin-c:        HI825-RIPE
+tech-c:         HI825-RIPE
+status:         ASSIGNED PA
+mnt-by:         MNT-20i
+created:        2018-09-19T13:27:19Z
+last-modified:  2020-07-27T11:58:38Z
+source:         RIPE
+
+role:           Hosting Infrastructure
+address:        Hawthorn House
+e-mail:         abuse@stackcp.com
+admin-c:        AR36293-RIPE
+nic-hdl:        HI825-RIPE
+mnt-by:         MNT-20i
+created:        2020-07-27T11:58:11Z
+last-modified:  2020-07-27T11:59:21Z
+source:         RIPE
+
+% Information related to '185.151.30.0/24AS48254'
+
+route:          185.151.30.0/24
+origin:         AS48254
+mnt-by:         MNT-20i
+created:        2018-09-20T12:52:20Z
+last-modified:  2018-09-21T09:16:52Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.109.1 (DEXTER)
+RESULTSET-2
+NetRange:       185.0.0.0 - 185.255.255.255
+CIDR:           185.0.0.0/8
+NetName:        RIPE-185
+NetHandle:      NET-185-0-0-0-1
+Parent:          ()
+NetType:        Allocated to RIPE NCC
+OriginAS:       
+Organization:   RIPE Network Coordination Centre (RIPE)
+RegDate:        2011-01-04
+Updated:        2011-02-08
+Comment:        These addresses have been further assigned to users in
+Comment:        the RIPE NCC region. Contact information can be found in
+Comment:        the RIPE database at http://www.ripe.net/whois
+Ref:            https://rdap.arin.net/registry/ip/185.0.0.0
+
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+ResourceLink:  whois.ripe.net
+
+
+OrgName:        RIPE Network Coordination Centre
+OrgId:          RIPE
+Address:        P.O. Box 10096
+City:           Amsterdam
+StateProv:      
+PostalCode:     1001EB
+	
+Country:        NL	
+RegDate:        	
+Updated:        2013	
+-07-29
+Ref:            https://rdap.arin.net/registry/entity/RIPE
+
+ReferralServer:  whois://whois.ripe.net
+ResourceLink:  https://apps.db.ripe.net/search/query.html
+
+OrgTechHandle: RNO29-ARIN
+OrgTechName:   RIPE NCC Operations
+OrgTechPhone:  +31 20 535 4444 
+OrgTechEmail:  hostmaster@ripe.net
+OrgTechRef:    https://rdap.arin.net/registry/entity/RNO29-ARIN
+
+OrgAbuseHandle: ABUSE3850-ARIN
+OrgAbuseName:   Abuse Contact
+OrgAbusePhone:  +31 20 535 4444
+OrgAbuseEmail:  abuse@ripe.net
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE3850-ARIN
